@@ -3,4 +3,14 @@
     <color name="colorPrimary">#3F51B5</color>
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
+    <color name="hint_text_color">#ff999999</color>
+    <color name="white">#ffffffff</color>
+    <color name="grey">#ffa7a7a7</color>
+    <color name="light_grey">#ffcccccc</color>
+    <color name="black_text">#6b6b6b</color>
+    <color name="dark_dark_grey">#ff505050</color>
+    <color name="action_bar_tittle_color">#ffcfcfcf</color>
+    <color name="green">#ff36d55c</color>
+    <color name="black">#000000</color>
+    <color name="green_pre">#ff47a5a4</color>
 </resources>
