@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <dimen name="LargestTextSize">30.0sp</dimen>
-    <dimen name="BigerTextSize">24.0sp</dimen>
-    <dimen name="BigTextSize">17.0sp</dimen>
-    <dimen name="NormalTextSize">16.0sp</dimen>
-    <dimen name="HintTextSize">14.0sp</dimen>
-    <dimen name="SmallerTextSize">13.0sp</dimen>
-    <dimen name="SmallestTextSize">12.0sp</dimen>
-    <dimen name="NormalPadding">12.0dip</dimen>
-    <dimen name="list_padding">0dp</dimen>
-    <dimen name="list_item_padding">16dp</dimen>
-    <!-- 按钮的最小点击高宽 -->
-    <dimen name="click_nor">48dp</dimen>
+    <!--<dimen name="LargestTextSize">30.0sp</dimen>-->
+    <!--<dimen name="BigerTextSize">24.0sp</dimen>-->
+    <!--<dimen name="BigTextSize">17.0sp</dimen>-->
+    <!--<dimen name="NormalTextSize">16.0sp</dimen>-->
+    <!--<dimen name="HintTextSize">14.0sp</dimen>-->
+    <!--<dimen name="SmallerTextSize">13.0sp</dimen>-->
+    <!--<dimen name="SmallestTextSize">12.0sp</dimen>-->
+    <!--<dimen name="NormalPadding">12.0dip</dimen>-->
+    <!--<dimen name="list_padding">0dp</dimen>-->
+    <!--<dimen name="list_item_padding">16dp</dimen>-->
+    <!--&lt;!&ndash; 按钮的最小点击高宽 &ndash;&gt;-->
+    <!--<dimen name="click_nor">48dp</dimen>-->
 </resources>
