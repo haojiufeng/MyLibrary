@@ -1,6 +1,0 @@
-<resources>
-    <string name="app_name">DateLibrary</string>
-    <string name="sure">确定</string>
-    <string name="please_input_room_name">请输入房间名</string>
-    <string name="please_input_room_desc">请输入房间描述</string>
-</resources>
